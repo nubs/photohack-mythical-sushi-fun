@@ -1,6 +1,6 @@
 (function(exports) {
 var logoImage = new Image();
-logoImage.src = '../img/recruitMe.svg';
+logoImage.src = '../img/recruitDe.svg';
 
 exports.URL = exports.URL || exports.webkitURL;
 
